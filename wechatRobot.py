@@ -3,7 +3,7 @@ import requests
 #上传获得消息内容到图灵机器人
 
 #api_key里面填你在图灵机器人里面获得的机器人的apiKey
-api_key = ['51a1337c2b9d4031b89460045ddec3b7','51a1337c2b9d4031b89460045ddec3b7','0326ee3b436540ceabd1884207700eb5','6d95987adc144da0a19883d15afe905c','00535128abb0472ca48ca7e801cf7b0b']
+api_key = []
 flag = 0
 def getMessage(msg,flag):
   apiURL='http://www.tuling123.com/openapi/api'
